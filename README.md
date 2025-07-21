@@ -4,6 +4,9 @@
 
 ---
 
+## Live Demo 
+![Watch the video](https://ik.imagekit.io/hassaan/Dot_Env_Gen_By_Hassaan_Haider_Iyp69txQd)
+
 ## ✨ Features
 
 - 🔍 Scans all `.js` and `.ts` files in your workspace
