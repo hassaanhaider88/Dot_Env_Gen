@@ -1,9 +1,9 @@
 {
   "name": "dotenv-extractor",
   "displayName": "Dot Env Generator",
-  "publisher": "DotEnvGen", 
+  "publisher": "DotEnvGen",
   "description": "Extracts All process.env Variables Gloabally And Creates A .env File.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.101.0"
   },
@@ -15,7 +15,7 @@
   ],
   "main": "./extension.js",
   "icon": "./Icon.png",
-   "contributes": {
+  "contributes": {
     "commands": [
       {
         "command": "extractEnvVars",
